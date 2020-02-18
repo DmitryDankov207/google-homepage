@@ -1,0 +1,41 @@
+div.search{
+	vertical-align: middle;
+	margin: auto;
+	position: relative;
+	width: 500px;
+}
+
+div.search img {
+	margin-top: 189px;
+}
+
+#navigation{
+
+}
+
+.footer{
+	background:#c0c0c0;
+	vertical-align: bottom;
+	margin: 0;
+	padding: 0;
+}
+
+.footer li{
+	
+}
+
+ul{
+	list-style-type: none;
+	
+}
+
+.footer ul{
+	border-top-style: solid;
+	border-top-width: 1px;
+}
+
+.footer ul li{
+	border-style: none;
+	display: inline;
+}
+
